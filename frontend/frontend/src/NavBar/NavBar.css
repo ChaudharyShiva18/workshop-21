@@ -1,0 +1,27 @@
+.NavLinks {
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(38, 143, 212);
+  width: 95%;
+  padding: 20px;
+  border-radius: 4px;
+  border: rgb(0, 0, 0) solid;
+}
+.NavLinks a {
+  padding-left: 50px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  color: rgb(6, 6, 7);
+  width: 10px;
+  margin-left: 20px;
+}
+
+/* .NavLinks a:focus{
+   background-color: skyblue;
+ width:10px;
+} */
